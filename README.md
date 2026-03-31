@@ -7,7 +7,7 @@ This project contains two Jupyter notebooks:
 
 
 ## Part 1: Text Analysis
-`02_text_analysis.ipynb`
+`text_analysis.ipynb`
 
 This notebook includes:
 - text preprocessing
@@ -18,7 +18,7 @@ This notebook includes:
 - PCA visualization
 
 ## Part 2: Image to PDF Conversion
-`01_image_to_pdf.ipynb`
+`Untitled.ipynb`
 
 This notebook:
 - reads images from an `images/` folder
