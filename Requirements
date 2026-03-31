@@ -1,0 +1,16 @@
+
+### requirements.txt
+```txt
+Pillow
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+vaderSentiment
+spacy
+gensim
+transformers
+torch
+sentence-transformers
